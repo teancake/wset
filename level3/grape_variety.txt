@@ -1,0 +1,97 @@
+Cabernet Franc
+Cabernet Sauvignon
+Carignan
+Chardonnay
+Chenin Blanc
+Cinsault
+Gamay
+Gewurztraminer
+Grenache
+Grolleau
+Malbec
+Marsanne
+Melon Blanc
+Merlot
+Mourvèdre
+Muscadelle
+Muscat
+Petit Manseng
+Petit Verdot
+Pinot Blanc
+Pinot Gris
+Pinot Noir
+Piquepoul
+Riesling
+Roussanne
+Sauvignon Blanc
+Syrah
+Sémillon
+Tannat
+Ugni Blanc
+Viognier
+
+Blaufränkisch
+Dornfelder
+Grüner Veltliner
+Müller-Thurgau
+Riesling
+Saint Laurent
+Silvaner
+Spätburgunder
+Welschriesling
+Zweigelt
+
+Aglianico
+Barbera
+Cortese
+Corvina
+Dolcetto
+Fiano
+Garganega
+Grechetto
+Greco
+Malvasia
+Montepulciano
+Nebbiolo
+Negroamaro
+Nero d’Avola
+Pinot Grigio
+Primitivo
+Sangiovese
+Trebbiano
+Verdicchio
+
+Furmint
+Hárslevelű
+Sárga Muskotály
+Xinomavro
+Agiorgitiko
+Assyrtiko
+
+Airén
+Albariño
+Cariñena
+Garnacha
+Graciano
+Mazuelo
+Mencía
+Monastrell
+Tempranillo
+Verdejo
+Viura
+
+Alfrocheiro
+Alicante Bouschet
+Alvarinho
+Aragonês
+Arinto
+Baga
+Jaen
+Loureiro
+Tinta Roriz
+Touriga Nacional
+Trincadeira
+
+Vidal
+Torrontés
+Bonarda

@@ -1,0 +1,103 @@
+Bordeaux
+Supérieur
+Bordeaux Supérieur
+Côtes de Bordeaux
+Entre-Deux-Mers
+Médoc
+Haut Médoc
+Saint-Estèphe
+Pauillac
+Margaux
+Saint-Julien
+Graves
+Pessac-Léognan
+Saint Émilion
+Saint-Émilion Grand Cru
+Pomerol
+Sauternes
+Barsac
+Dordogne
+Bergerac
+Monbazillac
+Cahors
+Madiran
+Jurançon
+Côtes de Gascogne
+Bourgogne
+Chablis
+Bourgogne Côte d'Or
+Bourgogne Hautes Côtes de Nuits
+Côte de Nuits-Villages
+Gevrey-Chambertin
+Vougeot
+Vosne-Romanée
+Nuits-Saint-Georges
+Bourgogne Hautes Côtes de Beaune
+Côte de Beaune-Villages
+Aloxe-Corton
+Beaune
+Pommard
+Volnay
+Meursault
+Puligny-Montrachet
+Chassagne-Montrachet
+Bourgogne Côte-Chalonnaise
+Rully
+Mercurey
+Givry
+Montagny
+Mâcon
+Mâcon Villages
+Pouilly-Fuissé
+Saint-Véran
+Beaujolais
+Beaujolais Villages
+Brouilly
+Fleurie
+Morgon
+Moulin-à-Vent
+Alsace
+Alsace Grand Cru
+Muscadet
+Muscadet Sèvre et Maine
+Anjou
+Coteaux du Layon
+Savennières
+Saumur
+Saumur-Champigny
+Vouvray
+Touraine
+Bourgueil
+Chinon
+Sancerre
+Pouilly-Fumé
+Menetou-Salon
+Rosé d’Anjou
+Cabernet d’Anjou
+Rosé de Loire
+Côtes du Rhône
+Côtes du Rhône Villages
+Côte Rôtie
+Condrieu
+Saint-Joseph
+Hermitage
+Crozes-Hermitage
+Cornas
+Châteauneuf-du-Pape
+Gigondas
+Vacqueyras
+Lirac
+Tavel
+Pays d’Oc
+Languedoc
+Minervois
+Fitou
+Corbières
+Picpoul de Pinet
+Roussillon
+Côtes du Roussillon
+Côtes du Roussillon Villages
+Bandol
+Provence
+Côtes de Provence
+
