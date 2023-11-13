@@ -1,0 +1,61 @@
+Mosel
+Bernkastel
+Wehlen
+Piesport
+Nahe
+Schloßböckelheim
+Rheingau
+Rüdesheim
+Johannisberg
+Rheinhessen
+Nierstein
+Pfalz
+Forst
+Deidesheim
+Baden
+Franken
+Niederösterreich
+Wachau
+Weinviertel
+Burgenland
+
+Deutscher Sekt
+Deutscher Sekt b.A.
+Prädikatswein
+Kabinett
+Spätlese
+Auslese
+Beerenauslese
+Trockenbeerenauslese
+Eiswein
+Qualitätswein
+Großes Gewächs
+Erstes Gewächs
+Süßreserve
+Verband Deutscher Prädikatsweingüter
+Erste Lage
+Große Lage
+Rhein-Main
+Taunus
+Hochheim
+Haardt
+Mittelhaardt
+Kaiserstuhl
+Würzburg
+Strohwein
+Schilfwein
+Neusiedler See
+Donau
+
+Blaufränkisch
+Dornfelder
+Grüner Veltliner
+Müller-Thurgau
+Riesling
+Saint Laurent
+Silvaner
+Spätburgunder
+Welschriesling
+Zweigelt
+Portugieser
+

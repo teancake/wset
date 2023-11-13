@@ -60,17 +60,25 @@ Primitivo
 Sangiovese
 Trebbiano
 Verdicchio
+Schiava
+Teroldego
+Friulano
+Sagrantino
 
 Furmint
 Hárslevelű
 Sárga Muskotály
 Xinomavro
+Ξινόμαυρο
 Agiorgitiko
+Αγιωργίτικο
 Assyrtiko
+Ασύρτικο
 
 Airén
 Albariño
 Cariñena
+Cencibel
 Garnacha
 Graciano
 Mazuelo
@@ -91,6 +99,14 @@ Loureiro
 Tinta Roriz
 Touriga Nacional
 Trincadeira
+Tinta Cão
+Tinta Barroca
+Touriga Franca
+bical
+encruzado
+Antão
+roupeiro
+
 
 Vidal
 Torrontés
