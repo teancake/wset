@@ -3,3 +3,4 @@
 * level 3 Specification: https://www.wsetglobal.com/media/11731/wset_l3wines_specification_en_highres_may2022_issue2.pdf 
 * level 2 Specification: https://www.wsetglobal.com/media/11718/wset_l2wines_specification_en_jun2022_issue11.pdf  
 * wine tasting: https://www.wsetglobal.com/media/11766/wset_l3wines_sat_en_may2022_issue2.pdf  
+* https://www.brainscape.com/learn/wset-level-3-wine has very detailed flashcards. 
