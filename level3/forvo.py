@@ -11,9 +11,8 @@ from pydub import AudioSegment
 import os
 import urllib.parse
 
-from log_util import get_logger
+from loguru import logger
 
-logger = get_logger("forvo")
 
 class ForvoUtil:
     def __init__(self):
